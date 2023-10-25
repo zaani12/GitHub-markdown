@@ -9,4 +9,7 @@ _ _ => _ce text est  Italique_
 
  ~~ ~~ =>   ~~ce text est Barré~~
 
-**ce text  extrêmement important**
+**ce text  _extrêmement_ important**
+
+
+***Tout ce texte est important***
