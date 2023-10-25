@@ -29,4 +29,4 @@ git commit
 # Modèles de couleurs pris en charge
 The background color is  `#ffffff`  for light mode and `#000000` for dark mode.
 
-`rgb(R,G,B)`
+`rgb(9, 105, 218)`
