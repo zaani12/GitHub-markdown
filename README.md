@@ -1,8 +1,10 @@
 # GitHub-markdown
+# headings 
+
 # A first-level heading
 ## A second-level heading
 ### A third-level heading
-================================== 
+
 # Style du texte
  ** ** =>  **ce text est en gras**  
 _ _ => _ce text est  Italique_
@@ -26,11 +28,11 @@ git add
 git commit
 ```
 
-# Liens de section
+
 
 # Liens
   This site was built using [GitHub Pages](https://pages.github.com/).
-# Listes de tâches
+
 
 
 # Listes
