@@ -12,4 +12,4 @@ _ _ => _ce text est  Italique_
 **ce text  _extrêmement_ important**
 
 
-***Tout ce texte est important***
+*** Tout ce texte est important ***
