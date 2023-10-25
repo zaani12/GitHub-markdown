@@ -17,3 +17,11 @@ _ _ => _ce text est  Italique_
 
 # Citation de texte
 > On peut citer en utilisant une citation ">"
+
+# Citation de code
+Voici quelques commandes Git de base :
+```
+git status
+git add
+git commit
+```
