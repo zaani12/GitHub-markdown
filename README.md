@@ -25,3 +25,6 @@ git status
 git add
 git commit
 ```
+
+# Modèles de couleurs pris en charge
+The background color is `#ffffff` for light mode and `#000000` for dark mode.
