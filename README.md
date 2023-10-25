@@ -11,25 +11,25 @@
 ```
 
 # Style du texte
-## texte gras
+### texte gras
  **ce text est en gras**   
  
    ```
  **ce text est en gras**  
 ```
-## texte Italique 
+### texte Italique 
  _ce text est  Italique_
    ```
  _ce text est  Italique_
   
 ```
-## texte Barré 
+### texte Barré 
  ~~ce text est Barré~~
    ```
  ~~ce text est Barré~~
   
 ```
-## texte gras-Italique
+### texte gras-Italique
 ***Tout ce texte est important***
    ```
 ***Tout ce texte est important***
@@ -37,7 +37,7 @@
 ```
 
 
-# Citation de texte
+## Citation de texte
 > On peut citer en utilisant une citation ">"
    ```
 ***Tout ce texte est important***
@@ -45,7 +45,7 @@
   
 ```
 
-# Citation de code
+## Citation de code
 Voici quelques commandes Git de base :
 ```
 git status
