@@ -6,19 +6,39 @@
 ### A third-level heading
 
 # Style du texte
- ** ** =>  **ce text est en gras**  
-_ _ => _ce text est  Italique_
-
- ~~ ~~ =>   ~~ce text est Barré~~
-
-**ce text  _extrêmement_ important**
-
-
+## texte gras
+ **ce text est en gras**   
+ 
+   ```
+ **ce text est en gras**  
+```
+## texte Italique 
+ _ce text est  Italique_
+   ```
+ _ce text est  Italique_
+  
+```
+## texte Barré 
+ ~~ce text est Barré~~
+   ```
+ ~~ce text est Barré~~
+  
+```
+## texte gras-Italique
 ***Tout ce texte est important***
+   ```
+***Tout ce texte est important***
+  
+```
 
 
 # Citation de texte
 > On peut citer en utilisant une citation ">"
+   ```
+***Tout ce texte est important***
+> On peut citer en utilisant une citation 
+  
+```
 
 # Citation de code
 Voici quelques commandes Git de base :
@@ -32,6 +52,10 @@ git commit
 
 # Liens
   This site was built using [GitHub Pages](https://pages.github.com/).
+  ```
+This site was built using [GitHub Pages](https://pages.github.com/).
+```
+
 
 
 
@@ -39,7 +63,23 @@ git commit
 - George Washington
 * John Adams
 + Thomas Jefferson
+```
+- George Washington
+or
+* John Adams 
+or 
++ Thomas Jefferson
+```
+
+
 # Listes de tâches
+
+
 - [x] #739
 - [ ] https://github.com/octo-org/octo-repo/issues/740
 - [x] Add delight to the experience when all tasks are complete :tada:
+  ```
+- [x] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [x] Add delight to the experience when all tasks are complete :tada:n
+```
