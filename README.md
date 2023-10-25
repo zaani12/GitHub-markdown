@@ -26,7 +26,18 @@ git add
 git commit
 ```
 
-# Modèles de couleurs pris en charge
-The background color is  `#ffffff`  for light mode and `#000000` for dark mode.
+# Liens de section
 
-`rgb(9, 105, 218)`
+# Liens
+  This site was built using [GitHub Pages](https://pages.github.com/).
+# Listes de tâches
+
+
+# Listes
+- George Washington
+* John Adams
++ Thomas Jefferson
+# Listes de tâches
+- [x] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:
