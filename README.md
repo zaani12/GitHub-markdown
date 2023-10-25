@@ -37,7 +37,7 @@
 ```
 
 
-## Citation de texte
+# Citation de texte
 > On peut citer en utilisant une citation ">"
    ```
 ***Tout ce texte est important***
@@ -45,7 +45,7 @@
   
 ```
 
-## Citation de code
+# Citation de code
 Voici quelques commandes Git de base :
 ```
 git status
