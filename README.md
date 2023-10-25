@@ -6,6 +6,7 @@
 # Style du texte
  ** ** =>  **ce text est en gras**  
 _ _ => _ce text est  Italique_
+
  ~~ ~~ =>   ~~ce text est Barré~~
 
 **ce text  extrêmement important**
