@@ -1,4 +1,10 @@
 # GitHub-markdown
+
+ ###  Tâche : Mise en forme d'un document en Markdown
+
+####  Description de la tâche :
+ Vous devez formater un document en Markdown en utilisant divers éléments de mise en forme, notamment des titres, du texte en gras, en italique, barré, des citations, des citations de code, des liens, des listes non ordonnées et des listes de tâches.
+
 # headings 
 
 # A first-level heading
