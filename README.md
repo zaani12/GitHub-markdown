@@ -18,7 +18,7 @@
 
 # Style du texte
 ### texte gras
- **ce text est en gras**   
+ **ce text est en Gras**   
  
    ```
  **ce text est en gras**  
